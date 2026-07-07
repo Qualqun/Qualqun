@@ -27,10 +27,9 @@ My background includes several team-based game projects using **Unity**, **Unrea
 ## Highlighted Work
 
 - **ExtractionZ** — 3v3 multiplayer game made with Unity, C#, ECS, and Netcode for Entities.
-- **Pathfinding 3D** — dynamic navigation, navmesh systems, and hierarchical pathfinding research.
 - **The Fallen One** — C++ / SFML boss fight project with gameplay systems, tools, shaders, and audio.
 - **Muscle Bird** — Unity gameplay project focused on combat, projectiles, onboarding, and polish.
-
+<!--- **Sample 3D** — dynamic navigation, navmesh systems, and hierarchical pathfinding research. *Not avai -->
 ## Links
 
 - Portfolio: [hbenhafsa.com](https://hbenhafsa.com/)
