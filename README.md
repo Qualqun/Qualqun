@@ -35,5 +35,4 @@ My background includes several team-based game projects using **Unity**, **Unrea
 
 - Portfolio: [hbenhafsa.com](https://hbenhafsa.com/)
 - Itch.io: [qualqun.itch.io](https://qualqun.itch.io/)
-- GitHub: [github.com/Qualqun](https://github.com/Qualqun)
 ```
