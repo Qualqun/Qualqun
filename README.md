@@ -1,4 +1,3 @@
-
 # Hi, I'm Hedi Ben Hafsa
 
 **Junior Gameplay Programmer** focused on **Unity**, **C#**, gameplay systems, multiplayer features, and technical game programming.
@@ -34,4 +33,4 @@ My background includes several team-based game projects using **Unity**, **Unrea
 
 - Portfolio: [hbenhafsa.com](https://hbenhafsa.com/)
 - Itch.io: [qualqun.itch.io](https://qualqun.itch.io/)
-```
+
